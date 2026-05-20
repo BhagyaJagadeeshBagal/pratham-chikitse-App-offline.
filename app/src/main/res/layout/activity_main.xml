@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/background_light">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emergency_guide"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/primary_red"
+            android:layout_centerVertical="true"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <Spinner
+                android:id="@+id/spinnerLanguage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="100dp"/>
+
+            <Button
+                android:id="@+id/btnLogout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/logout"
+                style="@style/Widget.MaterialComponents.Button.TextButton"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_emergency"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:alignmentMode="alignMargins"
+            android:columnOrderPreserved="false">
+
+            <!-- 1-4 -->
+            <androidx.cardview.widget.CardView android:id="@+id/cardSnakeBite" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardHeartAttack" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardFracture" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardChoking" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- 5-8 -->
+            <androidx.cardview.widget.CardView android:id="@+id/cardBurns" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardAllergy" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardStroke" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardPoisoning" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- 9-12 -->
+            <androidx.cardview.widget.CardView android:id="@+id/cardBleeding" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardHeatStroke" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardDrowning" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardElectricShock" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- 13-16 -->
+            <androidx.cardview.widget.CardView android:id="@+id/cardFainting" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardDogBite" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardAsthma" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardSeizures" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- 17-20 -->
+            <androidx.cardview.widget.CardView android:id="@+id/cardHeadInjury" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardNosebleed" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardInsectSting" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:id="@+id/cardDiabetic" style="@style/EmergencyCard">
+                <include layout="@layout/item_emergency_tile" />
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnHospitalFinder"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/hospital_finder"
+        android:backgroundTint="@color/accent_blue"
+        android:textSize="18sp"/>
+
+</LinearLayout>

@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">Pratham-Chikitse</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <string name="emergency_guide">Emergency First-Aid Guide</string>
+    <string name="select_emergency">Select an Emergency</string>
+    <string name="select_language">Language</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ (Kannada)</string>
+
+    <!-- 20 Emergencies -->
+    <string name="snake_bite">Snake Bite</string>
+    <string name="heart_attack">Heart Attack</string>
+    <string name="fracture">Fracture</string>
+    <string name="choking">Choking</string>
+    <string name="burns">Burns</string>
+    <string name="allergic_reaction">Allergy</string>
+    <string name="stroke">Stroke</string>
+    <string name="poisoning">Poisoning</string>
+    <string name="bleeding">Bleeding</string>
+    <string name="heat_stroke">Heat Stroke</string>
+    <string name="drowning">Drowning</string>
+    <string name="electric_shock">Electric Shock</string>
+    <string name="fainting">Fainting</string>
+    <string name="dog_bite">Dog Bite</string>
+    <string name="asthma_attack">Asthma Attack</string>
+    <string name="seizures">Seizures</string>
+    <string name="head_injury">Head Injury</string>
+    <string name="nosebleed">Nosebleed</string>
+    <string name="insect_sting">Insect Sting</string>
+    <string name="diabetic_emergency">Diabetic Emergency</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="finish">Finish</string>
+    <string name="audio_mode">Audio Mode</string>
+    <string name="stop_audio">Stop Audio</string>
+    <string name="hospital_finder">Nearby Hospitals (Offline)</string>
+    <string name="share_info">Share Info</string>
+
+    <!-- 1. Snake Bite -->
+    <string name="sb_step1">Keep the person calm. Move them away from the snake.</string>
+    <string name="sb_step2">Remove jewelry before swelling starts.</string>
+    <string name="sb_step3">Keep the bitten area at or below heart level.</string>
+    <string name="sb_step4">Clean the wound. Do NOT use water or a tourniquet.</string>
+
+    <!-- 2. Heart Attack -->
+    <string name="ha_step1">Call an ambulance immediately. Help them sit or lie down.</string>
+    <string name="ha_step2">Loosen any tight clothing.</string>
+    <string name="ha_step3">Give 300mg Aspirin if they are not allergic.</string>
+    <string name="ha_step4">Be prepared to perform CPR if they pass out.</string>
+
+    <!-- 3. Fracture -->
+    <string name="fr_step1">Stop bleeding with a clean cloth.</string>
+    <string name="fr_step2">Immobilize the area. Do NOT realign the bone.</string>
+    <string name="fr_step3">Apply ice packs to limit swelling.</string>
+    <string name="fr_step4">Treat for shock. Lay them flat with feet elevated.</string>
+
+    <!-- 4. Choking -->
+    <string name="ch_step1">Stand behind them and wrap arms around their waist.</string>
+    <string name="ch_step2">Place a fist just above the navel.</string>
+    <string name="ch_step3">Perform 5 quick, upward abdominal thrusts.</string>
+    <string name="ch_step4">Repeat until the object is forced out.</string>
+
+    <!-- 5. Burns -->
+    <string name="bu_step1">Cool the burn with cool running water for 10-20 mins.</string>
+    <string name="bu_step2">Remove rings before the area swells.</string>
+    <string name="bu_step3">Cover loosely with a sterile gauze bandage.</string>
+    <string name="bu_step4">Take a pain reliever like ibuprofen if needed.</string>
+
+    <!-- 6. Allergic Reaction -->
+    <string name="ar_step1">Identify and remove the allergen.</string>
+    <string name="ar_step2">Help them use an EpiPen immediately if they have one.</string>
+    <string name="ar_step3">Have them lie still on their back with feet raised.</string>
+    <string name="ar_step4">Seek medical help even if symptoms improve.</string>
+
+    <!-- 7. Stroke -->
+    <string name="st_step1">Note the time when symptoms started.</string>
+    <string name="st_step2">Check for face drooping on one side.</string>
+    <string name="st_step3">Check if one arm drifts downward when raised.</string>
+    <string name="st_step4">Check for slurred speech. Call an ambulance.</string>
+
+    <!-- 8. Poisoning -->
+    <string name="po_step1">Find out what was swallowed and how much.</string>
+    <string name="po_step2">Do NOT induce vomiting unless told by a doctor.</string>
+    <string name="po_step3">If conscious, rinse mouth with water.</string>
+    <string name="po_step4">Call poison control or emergency services.</string>
+
+    <!-- 9. Bleeding -->
+    <string name="bl_step1">Apply direct pressure with a clean cloth.</string>
+    <string name="bl_step2">Maintain pressure until bleeding stops.</string>
+    <string name="bl_step3">Add more cloth if soaked. Do not remove the first.</string>
+    <string name="bl_step4">Elevate the injury above the heart if possible.</string>
+
+    <!-- 10. Heat Stroke -->
+    <string name="hs_step1">Move them to a cool, shaded area.</string>
+    <string name="hs_step2">Remove excess clothing and spray with cool water.</string>
+    <string name="hs_step3">Fan them to lower body temperature.</string>
+    <string name="hs_step4">If conscious, give cool water to sip slowly.</string>
+
+    <!-- 11. Drowning -->
+    <string name="dr_step1">Get help. Call emergency services.</string>
+    <string name="dr_step2">Remove them from water safely.</string>
+    <string name="dr_step3">Check breathing. If not breathing, start CPR.</string>
+    <string name="dr_step4">If breathing, keep them warm in recovery position.</string>
+
+    <!-- 12. Electric Shock -->
+    <string name="es_step1">Do NOT touch them if still in contact with power.</string>
+    <string name="es_step2">Turn off power or use a dry wooden object to move them.</string>
+    <string name="es_step3">Call an ambulance and check breathing.</string>
+    <string name="es_step4">Start CPR if needed. Cover burns with dry cloth.</string>
+
+    <!-- 13. Fainting -->
+    <string name="fa_step1">Lay them on their back. Elevate feet 12 inches.</string>
+    <string name="fa_step2">Loosen tight clothing (belts, collars).</string>
+    <string name="fa_step3">Check if they are breathing.</string>
+    <string name="fa_step4">If they don\'t wake in a minute, call medical help.</string>
+
+    <!-- 14. Dog Bite -->
+    <string name="db_step1">Wash wound with mild soap and water.</string>
+    <string name="db_step2">Apply pressure to stop any bleeding.</string>
+    <string name="db_step3">Apply a sterile bandage.</string>
+    <string name="db_step4">See a doctor for rabies and infection check.</string>
+
+    <!-- 15. Asthma Attack -->
+    <string name="as_step1">Help them sit upright and stay calm.</string>
+    <string name="as_step2">Loosen tight clothing to aid breathing.</string>
+    <string name="as_step3">Help them use their quick-relief inhaler.</string>
+    <string name="as_step4">Call for help if symptoms worsen.</string>
+
+    <!-- 16. Seizures -->
+    <string name="se_step1">Move objects away. Do NOT restrain them.</string>
+    <string name="se_step2">Place something soft under their head.</string>
+    <string name="se_step3">Time the seizure. Note its duration.</string>
+    <string name="se_step4">After it ends, roll them onto their side.</string>
+
+    <!-- 17. Head Injury -->
+    <string name="hi_step1">Keep them still. Minimize head/neck movement.</string>
+    <string name="hi_step2">Apply firm pressure to any bleeding.</string>
+    <string name="hi_step3">Monitor for confusion or vomiting.</string>
+    <string name="hi_step4">Seek medical help for severe trauma.</string>
+
+    <!-- 18. Nosebleed -->
+    <string name="nb_step1">Sit upright and lean forward. Do NOT lean back.</string>
+    <string name="nb_step2">Pinch the soft part of the nose for 10-15 mins.</string>
+    <string name="nb_step3">Breathe through mouth. Apply ice pack to nose.</string>
+    <string name="nb_step4">If bleeding lasts over 20 mins, see a doctor.</string>
+
+    <!-- 19. Insect Sting -->
+    <string name="is_step1">Remove stinger with a flat edge (like a card).</string>
+    <string name="is_step2">Wash the area with soap and water.</string>
+    <string name="is_step3">Apply a cold pack to reduce swelling.</string>
+    <string name="is_step4">Monitor for severe allergic reactions.</string>
+
+    <!-- 20. Diabetic Emergency -->
+    <string name="de_step1">If conscious, give sugar (juice, candy).</string>
+    <string name="de_step2">If unconscious, do NOT give food. Call help.</string>
+    <string name="de_step3">Have them rest until they feel better.</string>
+    <string name="de_step4">Seek medical help if symptoms persist.</string>
+
+    <!-- Hospital Data -->
+    <string name="hosp1_name">City Emergency Hospital</string>
+    <string name="hosp1_dist">Distance: 1.2 km</string>
+    <string name="hosp1_contact">Contact: +91 9876543210</string>
+    <string name="hosp2_name">Rural Life Care Center</string>
+    <string name="hosp2_dist">Distance: 3.5 km</string>
+    <string name="hosp2_contact">Contact: +91 9988776655</string>
+    <string name="hosp3_name">St. Mary First Aid Clinic</string>
+    <string name="hosp3_dist">Distance: 5.0 km</string>
+    <string name="hosp3_contact">Contact: +91 9123456789</string>
+</resources>

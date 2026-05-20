@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="username">ಬಳಕೆದಾರರ ಹೆಸರು</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="confirm_password">ಪಾಸ್‌ವರ್ಡ್ ಖಚಿತಪಡಿಸಿ</string>
+    <string name="signup">ಸೈನ್ ಅಪ್</string>
+    <string name="dont_have_account">ಖಾತೆ ಇಲ್ಲವೇ? ಸೈನ್ ಅಪ್ ಮಾಡಿ</string>
+    <string name="already_have_account">ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ? ಲಾಗಿನ್ ಮಾಡಿ</string>
+
+    <string name="emergency_guide">ತುರ್ತು ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="select_emergency">ತುರ್ತು ಪರಿಸ್ಥಿತಿಯನ್ನು ಆರಿಸಿ</string>
+    <string name="select_language">ಭಾಷೆ</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ (Kannada)</string>
+
+    <string name="snake_bite">ಹಾವಿನ ಕಡಿತ</string>
+    <string name="heart_attack">ಹೃದಯಾಘಾತ</string>
+    <string name="fracture">ಮೂಳೆ ಮುರಿತ</string>
+    <string name="choking">ಉಸಿರುಕಟ್ಟುವಿಕೆ</string>
+    <string name="burns">ಸುಟ್ಟ ಗಾಯಗಳು</string>
+    <string name="allergic_reaction">ಅಲರ್ಜಿ</string>
+    <string name="stroke">ಪಾರ್ಶ್ವವಾಯು (Stroke)</string>
+    <string name="poisoning">ವಿಷ ಸೇವನೆ</string>
+    <string name="bleeding">ರಕ್ತಸ್ರಾವ</string>
+    <string name="heat_stroke">ಉಷ್ಣಾಘಾತ</string>
+    <string name="drowning">ನೀರಿನಲ್ಲಿ ಮುಳುಗುವುದು</string>
+    <string name="electric_shock">ವಿದ್ಯುತ್ ಆಘಾತ</string>
+    <string name="fainting">ಪ್ರಜ್ಞೆ ತಪ್ಪುವುದು</string>
+    <string name="dog_bite">ನಾಯಿ ಕಡಿತ</string>
+    <string name="asthma_attack">ಅಸ್ತಮಾ ದಾಳಿ</string>
+    <string name="seizures">ಸೆಳೆತ (Seizures)</string>
+    <string name="head_injury">ತಲೆಗೆ ಪೆಟ್ಟು</string>
+    <string name="nosebleed">ಮೂಗಿನ ರಕ್ತಸ್ರಾವ</string>
+    <string name="insect_sting">ಕೀಟಗಳ ಕಡಿತ</string>
+    <string name="diabetic_emergency">ಮಧುಮೇಹ ತುರ್ತು</string>
+
+    <string name="next">ಮುಂದೆ</string>
+    <string name="previous">ಹಿಂದಿನ</string>
+    <string name="finish">ಮುಕ್ತಾಯ</string>
+    <string name="audio_mode">ಆಡಿಯೋ ಮೋಡ್</string>
+    <string name="stop_audio">ಆಡಿಯೋ ನಿಲ್ಲಿಸಿ</string>
+    <string name="hospital_finder">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆಗಳು (ಆಫ್‌ಲೈನ್)</string>
+    <string name="share_info">ಮಾಹಿತಿ ಹಂಚಿಕೊಳ್ಳಿ</string>
+
+    <!-- 1. Snake Bite -->
+    <string name="sb_step1">ವ್ಯಕ್ತಿಯನ್ನು ಶಾಂತವಾಗಿ ಇರಿಸಿ. ಹಾವಿನಿಂದ ದೂರ ಸರಿಸಿ.</string>
+    <string name="sb_step2">ಊತ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಆಭರಣ ಅಥವಾ ಬಿಗಿಯಾದ ಬಟ್ಟೆಯನ್ನು ತೆಗೆದುಹಾಕಿ.</string>
+    <string name="sb_step3">ಕಚ್ಚಿದ ಜಾಗವನ್ನು ಹೃದಯದ ಮಟ್ಟದಲ್ಲಿ ಅಥವಾ ಅದಕ್ಕಿಂತ ಕೆಳಗೆ ಇರಿಸಿ.</string>
+    <string name="sb_step4">ಗಾಯವನ್ನು ಒಣ ಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ. ನೀರು ಬಳಸಬೇಡಿ.</string>
+
+    <!-- 2. Heart Attack -->
+    <string name="ha_step1">ತಕ್ಷಣ ಅಂಬ್ಯುಲೆನ್ಸ್ ಕರೆ ಮಾಡಿ. ವ್ಯಕ್ತಿಯನ್ನು ಕುಳಿತುಕೊಳ್ಳಲು ಅಥವಾ ಮಲಗಲು ಸಹಾಯ ಮಾಡಿ.</string>
+    <string name="ha_step2">ಯಾವುದೇ ಬಿಗಿಯಾದ ಬಟ್ಟೆಯನ್ನು (ಕಾಲರ್, ಬೆಲ್ಟ್) ಸಡಿಲಗೊಳಿಸಿ.</string>
+    <string name="ha_step3">ಅಲರ್ಜಿ ಇಲ್ಲದಿದ್ದರೆ ಅವರಿಗೆ 300mg ಆಸ್ಪಿರಿನ್ ನೀಡಿ.</string>
+    <string name="ha_step4">ವ್ಯಕ್ತಿಯು ಪ್ರಜ್ಞಾಹೀನನಾದರೆ CPR ಮಾಡಲು ಸಿದ್ಧರಾಗಿರಿ.</string>
+
+    <!-- 3. Fracture -->
+    <string name="fr_step1">ಶುದ್ಧ ಬಟ್ಟೆಯಿಂದ ಒತ್ತಡವನ್ನು ಹಾಕುವ ಮೂಲಕ ಯಾವುದೇ ರಕ್ತಸ್ರಾವವನ್ನು ನಿಲ್ಲಿಸಿ.</string>
+    <string name="fr_step2">ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಅಲುಗಾಡದಂತೆ ಇರಿಸಿ. ಮೂಳೆಯನ್ನು ಸರಿಹೊಂದಿಸಲು ಪ್ರಯತ್ನಿಸಬೇಡಿ.</string>
+    <string name="fr_step3">ಊತವನ್ನು ಮಿತಿಗೊಳಿಸಲು ಐಸ್ ಪ್ಯಾಕ್‌ಗಳನ್ನು ಅನ್ವಯಿಸಿ.</string>
+    <string name="fr_step4">ಶಾಕ್ ಸಂಭವಿಸದಂತೆ ಚಿಕಿತ್ಸೆ ನೀಡಿ. ವ್ಯಕ್ತಿಯನ್ನು ಕಾಲುಗಳನ್ನು ಎತ್ತರಿಸಿ ಮಲಗಿಸಿ.</string>
+
+    <!-- 4. Choking -->
+    <string name="ch_step1">ವ್ಯಕ್ತಿಯ ಹಿಂದೆ ನಿಂತು ಅವರ ಸೊಂಟದ ಸುತ್ತಲೂ ನಿಮ್ಮ ತೋಳುಗಳನ್ನು ಸುತ್ತಿಕೊಳ್ಳಿ.</string>
+    <string name="ch_step2">ಮುಷ್ಟಿಯನ್ನು ಮಾಡಿ ಮತ್ತು ಅದನ್ನು ಹೊಕ್ಕಳದ ಮೇಲೆ ಇರಿಸಿ.</string>
+    <string name="ch_step3">5 ಕ್ಷಿಪ್ರ, ಮೇಲ್ಮುಖವಾದ ಕಿಬ್ಬೊಟ್ಟೆಯ ಒತ್ತಡಗಳನ್ನು (Heimlich) ನಿರ್ವಹಿಸಿ.</string>
+    <string name="ch_step4">ವಸ್ತು ಹೊರಬರುವವರೆಗೆ ಅಥವಾ ಅವರು ಪ್ರಜ್ಞೆ ತಪ್ಪುವವರೆಗೆ ಪುನರಾವರ್ತಿಸಿ.</string>
+
+    <!-- 5. Burns -->
+    <string name="bu_step1">ಸುಟ್ಟ ಗಾಯವನ್ನು 10-20 ನಿಮಿಷಗಳ ಕಾಲ ತಂಪಾದ ಹರಿಯುವ ನೀರಿನಿಂದ ತಂಪಾಗಿಸಿ.</string>
+    <string name="bu_step2">ಭಾಗವು ಊದಿಕೊಳ್ಳುವ ಮೊದಲು ಉಂಗುರಗಳು ಅಥವಾ ಇತರ ಬಿಗಿಯಾದ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.</string>
+    <string name="bu_step3">ಸುಟ್ಟ ಗಾಯವನ್ನು ಬರಡಾದ ಗಾಜ್ ಬ್ಯಾಂಡೇಜ್‌ನಿಂದ ಸಡಿಲವಾಗಿ ಮುಚ್ಚಿ.</string>
+    <string name="bu_step4">ಅಗತ್ಯವಿದ್ದರೆ ಇಬುಪ್ರೊಫೇನ್ ಅಥವಾ ಪ್ಯಾರಸಿಟಮಾಲ್ ನಂತಹ ನೋವು ನಿವಾರಕವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</string>
+
+    <!-- 6. Allergic Reaction -->
+    <string name="ar_step1">ಸಾಧ್ಯವಾದರೆ ಅಲರ್ಜಿ ಉಂಟುಮಾಡುವ ವಸ್ತುವನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ತೆಗೆದುಹಾಕಿ.</string>
+    <string name="ar_step2">ಅವರ ಬಳಿ ಎಪಿಪೆನ್ (EpiPen) ಇದ್ದರೆ, ಅದನ್ನು ತಕ್ಷಣ ಬಳಸಲು ಸಹಾಯ ಮಾಡಿ.</string>
+    <string name="ar_step3">ವ್ಯಕ್ತಿಯನ್ನು ಕಾಲುಗಳನ್ನು ಎತ್ತರಿಸಿ ಬೆನ್ನಿನ ಮೇಲೆ ಶಾಂತವಾಗಿ ಮಲಗಿಸಿ.</string>
+    <string name="ar_step4">ಲಕ್ಷಣಗಳು ಸುಧಾರಿಸಿದರೂ ತುರ್ತು ವೈದ್ಯಕೀಯ ಸಹಾಯವನ್ನು ಪಡೆಯಿರಿ.</string>
+
+    <!-- 7. Stroke -->
+    <string name="st_step1">ಲಕ್ಷಣಗಳು ಮೊದಲು ಪ್ರಾರಂಭವಾದ ಸಮಯವನ್ನು ಗುರುತಿಸಿ.</string>
+    <string name="st_step2">ವ್ಯಕ್ತಿಗೆ ನಗು ಬೀರಲು ಹೇಳಿ. ಮುಖದ ಒಂದು ಬದಿ ವಾಲುತ್ತಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.</string>
+    <string name="st_step3">ಎರಡೂ ಕೈಗಳನ್ನು ಎತ್ತಲು ಹೇಳಿ. ಒಂದು ಕೈ ಕೆಳಕ್ಕೆ ಬೀಳುತ್ತಿದೆಯೇ ಎಂದು ನೋಡಿ.</string>
+    <string name="st_step4">ಮಾತು ತೊದಲುತ್ತಿದೆಯೇ ಎಂದು ಗಮನಿಸಿ. ತಕ್ಷಣ ಅಂಬ್ಯುಲೆನ್ಸ್ ಕರೆ ಮಾಡಿ.</string>
+
+    <!-- 8. Poisoning -->
+    <string name="po_step1">ಏನು ಸೇವಿಸಲಾಗಿದೆ ಮತ್ತು ಎಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿದೆ ಎಂದು ತಿಳಿಯಲು ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="po_step2">ವೈದ್ಯರು ಹೇಳುವವರೆಗೆ ವಾಂತಿ ಮಾಡಿಸಲು ಪ್ರಯತ್ನಿಸಬೇಡಿ.</string>
+    <string name="po_step3">ವ್ಯಕ್ತಿಯು ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದರೆ, ಬಾಯಿಯನ್ನು ನೀರಿನಿಂದ ತೊಳೆಯಲು ಹೇಳಿ.</string>
+    <string name="po_step4">ತಕ್ಷಣ ತುರ್ತು ಸೇವೆ ಅಥವಾ ವಿಷ ನಿಯಂತ್ರಣ ಕೇಂದ್ರಕ್ಕೆ ಕರೆ ಮಾಡಿ.</string>
+
+    <!-- 9. Bleeding -->
+    <string name="bl_step1">ಶುದ್ಧ ಬಟ್ಟೆಯಿಂದ ಗಾಯದ ಮೇಲೆ ನೇರ ಒತ್ತಡವನ್ನು ಹಾಕಿ.</string>
+    <string name="bl_step2">ರಕ್ತಸ್ರಾವ ನಿಲ್ಲುವವರೆಗೆ ಒತ್ತಡವನ್ನು ಮುಂದುವರಿಸಿ.</string>
+    <string name="bl_step3">ಬಟ್ಟೆ ಪೂರ್ತಿ ನೆನೆದರೆ, ಅದರ ಮೇಲೆ ಇನ್ನೊಂದು ಬಟ್ಟೆಯನ್ನು ಇರಿಸಿ. ಮೊದಲಿನದನ್ನು ತೆಗೆಯಬೇಡಿ.</string>
+    <string name="bl_step4">ಸಾಧ್ಯವಾದರೆ ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಹೃದಯದ ಮಟ್ಟಕ್ಕಿಂತ ಮೇಲೆ ಎತ್ತರಿಸಿ.</string>
+
+    <!-- 10. Heat Stroke -->
+    <string name="hs_step1">ವ್ಯಕ್ತಿಯನ್ನು ತಕ್ಷಣ ತಂಪಾದ, ನೆರಳಿನ ಜಾಗಕ್ಕೆ ಸರಿಸಿ.</string>
+    <string name="hs_step2">ಹೆಚ್ಚುವರಿ ಬಟ್ಟೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಅವರ ಮೇಲೆ ತಣ್ಣೀರು ಚಿಮುಕಿಸಿ.</string>
+    <string name="hs_step3">ದೇಹದ ಉಷ್ಣತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಗಾಳಿ ಹಾಕಿ.</string>
+    <string name="hs_step4">ವ್ಯಕ್ತಿಯು ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದರೆ, ಸ್ವಲ್ಪ ತಣ್ಣೀರನ್ನು ಕುಡಿಯಲು ನೀಡಿ.</string>
+
+    <!-- 11. Drowning -->
+    <string name="dr_step1">ಸಹಾಯ ಪಡೆಯಿರಿ. ತುರ್ತು ಸೇವೆಗೆ ಕರೆ ಮಾಡಿ.</string>
+    <string name="dr_step2">ವ್ಯಕ್ತಿಯನ್ನು ನೀರಿನಿಂದ ಸುರಕ್ಷಿತವಾಗಿ ಹೊರತೆಗೆಯಿರಿ.</string>
+    <string name="dr_step3">ಉಸಿರಾಟವನ್ನು ಪರೀಕ್ಷಿಸಿ. ಉಸಿರಾಟವಿಲ್ಲದಿದ್ದರೆ, ತಕ್ಷಣ CPR ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="dr_step4">ಉಸಿರಾಡುತ್ತಿದ್ದರೆ, ಚೇತರಿಕೆ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಿಸಿ ಮತ್ತು ಬೆಚ್ಚಗಿಡಿ.</string>
+
+    <!-- 12. Electric Shock -->
+    <string name="es_step1">ವ್ಯಕ್ತಿಯು ಇನ್ನೂ ವಿದ್ಯುತ್ ಸಂಪರ್ಕದಲ್ಲಿದ್ದರೆ ಅವರನ್ನು ಮುಟ್ಟಬೇಡಿ.</string>
+    <string name="es_step2">ವಿದ್ಯುತ್ ಮೂಲವನ್ನು ಆಫ್ ಮಾಡಿ ಅಥವಾ ಒಣ ಮರದ ವಸ್ತುವನ್ನು ಬಳಸಿ ಅವರನ್ನು ಸರಿಸಿ.</string>
+    <string name="es_step3">ತಕ್ಷಣ ಅಂಬ್ಯುಲೆನ್ಸ್ ಕರೆ ಮಾಡಿ. ಉಸಿರಾಟವನ್ನು ಪರೀಕ್ಷಿಸಿ.</string>
+    <string name="es_step4">ಅಗತ್ಯವಿದ್ದರೆ CPR ಪ್ರಾರಂಭಿಸಿ. ಸುಟ್ಟ ಗಾಯಗಳನ್ನು ಒಣ ಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ.</string>
+
+    <!-- 13. Fainting -->
+    <string name="fa_step1">ವ್ಯಕ್ತಿಯನ್ನು ಬೆನ್ನಿನ ಮೇಲೆ ಮಲಗಿಸಿ. ಕಾಲುಗಳನ್ನು ಸ್ವಲ್ಪ ಎತ್ತರಿಸಿ.</string>
+    <string name="fa_step2">ಬಿಗಿಯಾದ ಬಟ್ಟೆಗಳನ್ನು ಸಡಿಲಗೊಳಿಸಿ.</string>
+    <string name="fa_step3">ಅವರು ಉಸಿರಾಡುತ್ತಿದ್ದಾರೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.</string>
+    <string name="fa_step4">ಒಂದು ನಿಮಿಷದಲ್ಲಿ ಅವರು ಎಚ್ಚರವಾಗದಿದ್ದರೆ, ವೈದ್ಯಕೀಯ ಸಹಾಯ ಪಡೆಯಿರಿ.</string>
+
+    <!-- 14. Dog Bite -->
+    <string name="db_step1">ಸೌಮ್ಯವಾದ ಸೋಪು ಮತ್ತು ನೀರಿನಿಂದ ಗಾಯವನ್ನು ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ.</string>
+    <string name="db_step2">ರಕ್ತಸ್ರಾವವನ್ನು ನಿಲ್ಲಿಸಲು ಶುದ್ಧ ಬಟ್ಟೆಯಿಂದ ಒತ್ತಡವನ್ನು ಹಾಕಿ.</string>
+    <string name="db_step3">ಗಾಯಕ್ಕೆ ಬರಡಾದ ಬ್ಯಾಂಡೇಜ್ ಅನ್ನು ಅನ್ವಯಿಸಿ.</string>
+    <string name="db_step4">ರೇಬೀಸ್ ಪರೀಕ್ಷಿಸಲು ತಕ್ಷಣ ವೈದ್ಯರನ್ನು ಭೇಟಿ ಮಾಡಿ.</string>
+
+    <!-- 15. Asthma Attack -->
+    <string name="as_step1">ವ್ಯಕ್ತಿಯು ಕುಳಿತುಕೊಳ್ಳಲು ಮತ್ತು ಶಾಂತವಾಗಿರಲು ಸಹಾಯ ಮಾಡಿ.</string>
+    <string name="as_step2">ಬಿಗಿಯಾದ ಬಟ್ಟೆಗಳನ್ನು ಸಡಿಲಗೊಳಿಸಿ.</string>
+    <string name="as_step3">ಅವರ ಇನ್ಹೇಲರ್ (Inhaler) ಬಳಸಲು ಸಹಾಯ ಮಾಡಿ.</string>
+    <string name="as_step4">ಲಕ್ಷಣಗಳು ಉಲ್ಬಣಗೊಂಡರೆ ತಕ್ಷಣ ವೈದ್ಯಕೀಯ ಸಹಾಯ ಪಡೆಯಿರಿ.</string>
+
+    <!-- 16. Seizures -->
+    <string name="se_step1">ವ್ಯಕ್ತಿಯ ಸುತ್ತಲಿನ ಅಪಾಯಕಾರಿ ವಸ್ತುಗಳನ್ನು ಸರಿಸಿ.</string>
+    <string name="se_step2">ತಲೆಯ ಕೆಳಗೆ ಮೃದುವಾದ ವಸ್ತುವನ್ನು ಇರಿಸಿ. ಬಾಯಿಗೆ ಏನನ್ನೂ ಹಾಕಬೇಡಿ.</string>
+    <string name="se_step3">ಸೆಳೆತ ಎಷ್ಟು ಸಮಯ ಇರುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ.</string>
+    <string name="se_step4">ಸೆಳೆತ ನಿಂತ ನಂತರ ಅವರನ್ನು ಒಂದು ಮಗ್ಗುಲಿಗೆ ಮಲಗಿಸಿ.</string>
+
+    <!-- 17. Head Injury -->
+    <string name="hi_step1">ವ್ಯಕ್ತಿಯನ್ನು ಅಲುಗಾಡದಂತೆ ಸ್ಥಿರವಾಗಿ ಇರಿಸಿ.</string>
+    <string name="hi_step2">ರಕ್ತಸ್ರಾವವಿದ್ದರೆ ಶುದ್ಧ ಬಟ್ಟೆಯಿಂದ ಒತ್ತಡ ಹಾಕಿ.</string>
+    <string name="hi_step3">ವಾಂತಿ ಅಥವಾ ಗೊಂದಲವಿದೆಯೇ ಎಂದು ಗಮನಿಸಿ.</string>
+    <string name="hi_step4">ತೀವ್ರ ಗಾಯವಿದ್ದರೆ ತಕ್ಷಣ ಆಸ್ಪತ್ರೆಗೆ ಕರೆದೊಯ್ಯಿರಿ.</string>
+
+    <!-- 18. Nosebleed -->
+    <string name="nb_step1">ನೇರವಾಗಿ ಕುಳಿತು ಸ್ವಲ್ಪ ಮುಂದಕ್ಕೆ ಬಾಗಿ. ಹಿಂದೆ ಬಾಗಬೇಡಿ.</string>
+    <string name="nb_step2">ಮೂಗಿನ ಮೃದುವಾದ ಭಾಗವನ್ನು 10-15 ನಿಮಿಷ ಒತ್ತಿ ಹಿಡಿಯಿರಿ.</string>
+    <string name="nb_step3">ಬಾಯಿಯಿಂದ ಉಸಿರಾಡಿ ಮತ್ತು ಮೂಗಿನ ಮೇಲೆ ಐಸ್ ಪ್ಯಾಕ್ ಇರಿಸಿ.</string>
+    <string name="nb_step4">20 ನಿಮಿಷದ ನಂತರವೂ ರಕ್ತ ನಿಲ್ಲದಿದ್ದರೆ ವೈದ್ಯರ ಬಳಿ ಹೋಗಿ.</string>
+
+    <!-- 19. Insect Sting -->
+    <string name="is_step1">ಕಡಿತದ ಜಾಗದಲ್ಲಿರುವ ಮುಳ್ಳನ್ನು (stinger) ಎಚ್ಚರಿಕೆಯಿಂದ ತೆಗೆಯಿರಿ.</string>
+    <string name="is_step2">ಸೋಪು ಮತ್ತು ನೀರಿನಿಂದ ಜಾಗವನ್ನು ತೊಳೆಯಿರಿ.</string>
+    <string name="is_step3">ಊತ ಮತ್ತು ನೋವು ಕಡಿಮೆ ಮಾಡಲು ತಣ್ಣೀರಿನ ಪ್ಯಾಕ್ ಇರಿಸಿ.</string>
+    <string name="is_step4">ಉಸಿರಾಟದ ತೊಂದರೆಯಂತಹ ಗಂಭೀರ ಅಲರ್ಜಿ ಲಕ್ಷಣಗಳನ್ನು ಗಮನಿಸಿ.</string>
+
+    <!-- 20. Diabetic Emergency -->
+    <string name="de_step1">ವ್ಯಕ್ತಿಯು ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದರೆ ಸಕ್ಕರೆ ಅಂಶವಿರುವ ಪಾನೀಯ ಅಥವಾ ಮಿಠಾಯಿ ನೀಡಿ.</string>
+    <string name="de_step2">ಪ್ರಜ್ಞಾಹೀನನಾಗಿದ್ದರೆ ಏನನ್ನೂ ತಿನ್ನಲು ನೀಡಬೇಡಿ.</string>
+    <string name="de_step3">ಅವರು ಚೇತರಿಸಿಕೊಳ್ಳುವವರೆಗೆ ವಿಶ್ರಾಂತಿ ಪಡೆಯಲು ಬಿಡಿ.</string>
+    <string name="de_step4">ಲಕ್ಷಣಗಳು ಕಡಿಮೆಯಾಗದಿದ್ದರೆ ತಕ್ಷಣ ವೈದ್ಯರನ್ನು ಭೇಟಿ ಮಾಡಿ.</string>
+
+    <!-- Hospital Data Kannada -->
+    <string name="hosp1_name">ಸಿಟಿ ಎಮರ್ಜೆನ್ಸಿ ಹಾಸ್ಪಿಟಲ್</string>
+    <string name="hosp1_dist">ದೂರ: 1.2 ಕಿ.ಮೀ</string>
+    <string name="hosp1_contact">ಸಂಪರ್ಕ: +91 9876543210</string>
+    <string name="hosp2_name">ರೂರಲ್ ಲೈಫ್ ಕೇರ್ ಸೆಂಟರ್</string>
+    <string name="hosp2_dist">ದೂರ: 3.5 ಕಿ.ಮೀ</string>
+    <string name="hosp2_contact">ಸಂಪರ್ಕ: +91 9988776655</string>
+    <string name="hosp3_name">ಸೇಂಟ್ ಮೇರಿ ಪ್ರಥಮ ಚಿಕಿತ್ಸಾ ಕ್ಲಿನಿಕ್</string>
+    <string name="hosp3_dist">ದೂರ: 5.0 ಕಿ.ಮೀ</string>
+    <string name="hosp3_contact">ಸಂಪರ್ಕ: +91 9123456789</string>
+</resources>
